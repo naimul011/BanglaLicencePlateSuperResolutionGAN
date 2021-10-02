@@ -147,7 +147,7 @@ for downSample, original in data.take(4):
 
 <div class="output display_data">
 
-![](286e3ea0b980921575e17713c5d9e10a62f0ee09.png)
+![](Capture.PNG)
 
 </div>
 
