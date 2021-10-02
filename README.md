@@ -1,5 +1,9 @@
 # Bangla Licence Plate Restoration Using Super Resolution Generative Adversarial Networks
+## Dataset
 
+A Bangla license plates dataset (synthetic), generated with a mixture of deep learning and image processing.
+
+[Download the dataset](https://github.com/zabir-nabil/bangla-synthetic-license-plates/)
 <div class="cell code" id="BNlclbC6yXne">
 
 ``` python
