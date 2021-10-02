@@ -29,8 +29,19 @@ for downSample, original in data.take(4):
 ```
     
 ![Samples](/Samples/Capture.PNG)
-## Result
 
+## Result
+### Run plate enhancement
+
+</div>
+
+<div class="cell code" data-colab="{&quot;height&quot;:597,&quot;base_uri&quot;:&quot;https://localhost:8080/&quot;}" id="zHTBhifayXno" data-outputId="2898ee91-b6ef-47c1-ec53-2f939c137c81">
+
+``` python
+for downSample, original in data.take(4):
+    yPred = model.predict(downSample)
+    painter.plot(downSample, original, yPred)
+```
 ![Samples](/Samples/Capture2.PNG)
 
 <div class="cell code" id="BNlclbC6yXne">
