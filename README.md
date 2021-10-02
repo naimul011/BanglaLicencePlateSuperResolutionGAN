@@ -12,7 +12,7 @@ The images are in JPG format. The labels are in darknet yolo format. [.txt, .dat
 
 ## Result
 
-![Samples](/Samples/Capture2.png)
+![Samples](/Samples/Capture2.PNG)
 
 <div class="cell code" id="BNlclbC6yXne">
 
