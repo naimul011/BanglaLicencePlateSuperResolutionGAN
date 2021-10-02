@@ -7,7 +7,7 @@ A Bangla license plates dataset (synthetic), generated with a mixture of deep le
 
 The images are in JPG format. The labels are in darknet yolo format. [.txt, .data, .names]
 
-![Samples](/Samples/dataset.jpeg)
+![Samples](/Samples/dataset.jpg)
 <div class="cell code" id="BNlclbC6yXne">
 
 ``` python
