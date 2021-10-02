@@ -4,6 +4,10 @@
 A Bangla license plates dataset (synthetic), generated with a mixture of deep learning and image processing.
 
 [Download the dataset](https://github.com/zabir-nabil/bangla-synthetic-license-plates/)
+
+The images are in JPG format. The labels are in darknet yolo format. [.txt, .data, .names]
+
+![Samples](/Samples/dataset.jpeg)
 <div class="cell code" id="BNlclbC6yXne">
 
 ``` python
